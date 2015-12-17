@@ -1,0 +1,26 @@
+{
+  "name": "movieset",
+  "version": "1.0.0",
+  "description": "A graphical representation with movie dataset",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "moviedataset"
+  ],
+  "author": "krishna",
+  "license": "MIT",
+  "devDependencies": {
+      "express": "~4.9.x",
+      "mustache-express": "*",
+      "imdb-api": "*"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krishna-murthy/movieset.git"
+  }
+}
